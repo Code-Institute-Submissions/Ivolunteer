@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+html { scroll-behavior: smooth;
+}
+
+/* -------navigation----*/
+.navbar-custom {background:#ffa500;
+}
+
+.navbar .navbar-brand  {
+    font-family: "Bree Serif", sans-serif;
+    font-size: 25px;
+}
+
+.navbar-nav .nav-link {
+    font-family: "Bree Serif", sans-serif;
+    font-size: 20px;
+}
