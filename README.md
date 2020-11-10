@@ -34,3 +34,10 @@ The aim of this project is to **raise awareness of Africa's endangered elephants
 * _"As a **site owner**, I want to increase awareness and participation"._
 
 * _"As a **site owner**, I want to be able to **connect** with my users to **handle any queries** and obtain valuable **feedback**"._
+
+## Wireframe ##
+I designed my website layout using [balsamiq wireframes](https://balsamiq.com/). Main criteria was to create a basic layout structure which also would display where content would be placed and what shape it would take on different screen sizes, such as desktop, tablet & mobile.
+
+You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/blob/master/assets/wireframe/wireframe.pdf) 
+
+## Design ##
