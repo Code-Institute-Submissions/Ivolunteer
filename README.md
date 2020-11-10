@@ -41,3 +41,36 @@ I designed my website layout using [balsamiq wireframes](https://balsamiq.com/).
 You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/blob/master/assets/wireframe/wireframe.pdf) 
 
 ## Design ##
+
+## Features ##
+
+**Existing Features**
+
+- One page navigation with fixed navigation bar - easily directs to proper section of page (available on all screen sizes).
+
+- Burger Icon as drop down navigation bar for smaller screen sizes.
+
+ - Num stepper allowing users to increase or decrease number of guest participating (Get involved page)
+
+ - Drop-down menus to list options (Get involved page)
+
+- Volunteer application form with radio buttons for user to determine duration of stay and call for action button to submit (Get involved page)
+
+- Donation form with radio buttons for user to asign donation amount and call for action button to submit (Get involved page)
+
+- Progress bar measuring donation received (Get involved page)
+
+- Contact form with radio buttons for user option to subscribe and call for action button to submit
+
+- Footer with icon-links to social forums
+
+**Features** to **implement** in the **future:**
+
+- Search box -to quicker find specific information
+
+- Adding functionality to submission forms where a server actually receives, registers and responds to submitted information.
+
+- videos
+
+
+---
