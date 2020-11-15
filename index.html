@@ -14,7 +14,8 @@
 
 <body>
 	<header>
-		<!-- Navbar start --> <!--sourced:https://getbootstrap.com/docs/4.1/components/navbar/-->
+		<!-- Navbar start -->
+		<!--sourced:https://getbootstrap.com/docs/4.1/components/navbar/-->
 		<nav class="navbar fixed-top navbar-expand-md navbar-light navbar-custom"> <a class="navbar-brand" href="#">IVolunteer</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#dropdownnav"> <span class="navbar-toggler-icon"></span>
 			</button>
@@ -62,7 +63,8 @@
 				</div>
 				<div class="col-12 col-md-4">
 					<img class="rounded-circle img-fluid" src="assets/images/sunset.jpg" alt="African sunset" />
-				</div><!--Image sourced: https://www.pexels.com/sv-se/foto/landskap-natur-himmel-solnedgang-580685/-->
+				</div>
+				<!--Image sourced: https://www.pexels.com/sv-se/foto/landskap-natur-himmel-solnedgang-580685/-->
 				<div class="col-12 col-md-4 overlay">
 					<h2>Rehabilitate</h2>
 					<p>We make sure to rehabilitate the rescued elephants as far as is feasible, before releasing them back into the wild repopulating forest areas in which they are already endangered or extinct. Giving them the best opportunity to live the rest of their lives free and in a safe environment, as close to nature as possible and providing them with the best care possible.</p>
@@ -86,7 +88,8 @@
 					<h2>Gallery</h2>
 				</div>
 			</div>
-			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel"><!--Sourced: https://getbootstrap.com/docs/4.5/components/carousel/-->
+			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+				<!--Sourced: https://getbootstrap.com/docs/4.5/components/carousel/-->
 				<ol class="carousel-indicators">
 					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 					<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -158,15 +161,16 @@
 				</div>
 			</div>
 			<div class="row mt-5">
-				<div class="col-6">
+				<div class="col-12 col-md-6">
 					<form>
 						<!--Num.stepp form code sourced: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_step-->
 						<label for="number">How many guests?:</label>
 						<input type="number" id="number" name="number" step="1" min="1" max="50" style="width: 3em">
 					</form>
 				</div>
-				<div class="col-6">
-					<form><!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
+				<div class="col-12 col-md-6">
+					<form>
+						<!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
 						<p>I would like to make a donation in the amount of:</p>
 						<input type="radio" id="amount1" name="amount" value="20">
 						<label for="amount">20€</label>
@@ -179,17 +183,56 @@
 					</form>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-12 col-md-6">
+					<form> <span>Which month?</span>
+						<select id="month-selector">
+							<!--dropdown menue credit:http://jsfiddle.net/sCnEZ/1/-->
+							<option value="1">Janaury</option>
+							<option value="2">February</option>
+							<option value="3">March</option>
+							<option value="4">April</option>
+							<option value="5">May</option>
+							<option value="6">June</option>
+							<option value="7">July</option>
+							<option value="8">August</option>
+							<option value="9">September</option>
+							<option value="10">October</option>
+							<option value="11">November</option>
+							<option value="12">December</option>
+						</select>
+					</form>
+				</div>
+			<div class="col-12 col-md-6">
+            <span class="text">Food</span>
+            <!--Sourced:Bootstrap-progressbar https://getbootstrap.com/docs/4.5/components/progress/-->
+				<div class="progress Food">
+					<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div><span class="sr-only">60% complete</span>
+				</div> 
+                <span class="text">Medical</span>
+                <div class="progress">
+					<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div><span class="sr-only">50% complete</span>
+				</div> 
+                <span class="text">Shelter</span>
+                <div class="progress">
+					<div class="progress-bar bg-warning warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%">15%</div><span class="sr-only">15% complete</span>
+				</div>
+			</div>
+        </div>    
+			<div class="row">
+				<div class="col-12 col-md-6">
+					<form> <span>Which year?</span>
+						<select id="year-selector">
+							<!--dropdown menue credit:http://jsfiddle.net/sCnEZ/1/-->
+							<option value="1">2021</option>
+							<option value="2">2022</option>
+							<option value="3">2023</option>
+							<option value="4">2024</option>
+						</select>
+					</form>
+				</div>
+			</div>
 		</div>
-            <div class="row">
-                <div class="col-6">
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-6">
-
-                </div>
-            </div>
 	</section>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
