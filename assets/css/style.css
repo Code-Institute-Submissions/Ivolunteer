@@ -74,6 +74,9 @@ h2 {
     width: 100%;
 }
 
+.donation-form {
+    height: 1rem;
+}
 
 .progress {
     margin-top: 10px;
