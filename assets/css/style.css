@@ -105,3 +105,7 @@ h2 {
 .year { margin-top: 21px;
 }
 
+.week { position: relative;
+        bottom: 15px;
+
+}
