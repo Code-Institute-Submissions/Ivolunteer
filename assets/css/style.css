@@ -74,13 +74,31 @@ h2 {
     width: 100%;
 }
 
+
 .progress {
     margin-top: 10px;
     font-size: 1rem;
     margin-right: 65px;
+    height: 2rem;
 }
 
 .text { 
     float: right;
     margin-top: 2px;
 }
+
+
+.pbar-holder {
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+
+.month{
+    position: relative;
+    margin-top: 15px;
+}
+
+.year { margin-top: 21px;
+}
+
