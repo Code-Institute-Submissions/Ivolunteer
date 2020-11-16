@@ -160,94 +160,68 @@
 					<h2>Get Involved</h2>
 				</div>
 			</div>
-			<div class="row mt-5">
+			<div class="row">
 				<div class="col-12 col-md-6">
-					<form>
-						<!--Num.stepp form code sourced: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_step-->
-						<label for="number">How many guests?:</label>
-						<input type="number" id="number" name="number" step="1" min="1" max="50" style="width: 3em">
-					</form>
+					<!--Num.stepp form code sourced: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_step-->
+					<label for="number">How many guests?:</label>
+					<input type="number" id="number" name="number" step="1" min="1" max="50" style="width: 3em">
+                    <span>Which month?</span>
+					<select id="month-selector">
+						<!--dropdown menue credit:http://jsfiddle.net/sCnEZ/1/-->
+						<option value="1">Janaury</option>
+						<option value="2">February</option>
+						<option value="3">March</option>
+						<option value="4">April</option>
+						<option value="5">May</option>
+						<option value="6">June</option>
+						<option value="7">July</option>
+						<option value="8">August</option>
+						<option value="9">September</option>
+						<option value="10">October</option>
+						<option value="11">November</option>
+						<option value="12">December</option>
+					</select> <span>Which year?</span>
+					<select id="year-selector">
+						<!--dropdown menu credit:http://jsfiddle.net/sCnEZ/1/-->
+						<option value="1">2021</option>
+						<option value="2">2022</option>
+						<option value="3">2023</option>
+						<option value="4">2024</option>
+					</select>
+					<!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
+					<p>Duration of stay?</p>
+					<input type="radio" id="weeks2" name="weeks" value="2">
+					<label for="weeks2">2 weeks</label>
+					<input type="radio" id="weeks3" name="weeks" value="3">
+					<label for="weeks3">3 weeks</label>
+					<input type="radio" id="weeks4" name="weeks" value="4">
+					<label for="weeks4">4 weeks</label>
+					<button type="button" class="btn btn-warning">Volunteer</button>
 				</div>
-				<div class="col-12 col-md-6 donation-form">
-					<form>
-						<!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
-						<p>I would like to make a donation in the amount of:</p>
-						<input type="radio" id="amount1" name="amount" value="20">
-						<label for="amount1">20€</label>
-						<input type="radio" id="amount2" name="amount" value="50">
-						<label for="amount2">50€</label>
-						<input type="radio" id="amount3" name="amount" value="100">
-						<label for="amount3">100€</label>
-						<input type="radio" id="amount4" name="amount" value="other">
-						<label for="amount4">other</label>
-					</form>
+				<div class="col-12 col-md-6">
+					<!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
+					<p>I would like to make a donation in the amount of:</p>
+					<input type="radio" id="amount1" name="amount" value="20">
+					<label for="amount1">20€</label>
+					<input type="radio" id="amount2" name="amount" value="50">
+					<label for="amount2">50€</label>
+					<input type="radio" id="amount3" name="amount" value="100">
+					<label for="amount3">100€</label>
+					<input type="radio" id="amount4" name="amount" value="other">
+					<label for="amount4">other</label> <span class="text">Food</span>
+					<!--Sourced:Bootstrap-progressbar https://getbootstrap.com/docs/4.5/components/progress/-->
+					<div class="progress">
+						<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div><span class="sr-only">60% complete</span>
+					</div> <span class="text">Medical</span>
+					<div class="progress">
+						<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div><span class="sr-only">50% complete</span>
+					</div> <span class="text">Shelter</span>
+					<div class="progress">
+						<div class="progress-bar bg-warning warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%">15%</div><span class="sr-only">15% complete</span>
+					</div>
+					<button type="button" class="btn btn-warning">Donate</button>
 				</div>
 			</div>
-			<div class="row month">
-				<div class="col-12 col-md-6">
-					<form> <span>Which month?</span>
-						<select id="month-selector">
-							<!--dropdown menue credit:http://jsfiddle.net/sCnEZ/1/-->
-							<option value="1">Janaury</option>
-							<option value="2">February</option>
-							<option value="3">March</option>
-							<option value="4">April</option>
-							<option value="5">May</option>
-							<option value="6">June</option>
-							<option value="7">July</option>
-							<option value="8">August</option>
-							<option value="9">September</option>
-							<option value="10">October</option>
-							<option value="11">November</option>
-							<option value="12">December</option>
-						</select>
-					</form>
-				</div>
-			<div class="col-12 col-md-6 pbar-holder">
-            <span class="text">Food</span>
-            <!--Sourced:Bootstrap-progressbar https://getbootstrap.com/docs/4.5/components/progress/-->
-				<div class="progress">
-					<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div><span class="sr-only">60% complete</span>
-				</div> 
-                <span class="text">Medical</span>
-                <div class="progress">
-					<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div><span class="sr-only">50% complete</span>
-				</div> 
-                <span class="text">Shelter</span>
-                <div class="progress">
-					<div class="progress-bar bg-warning warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%">15%</div><span class="sr-only">15% complete</span>
-				</div>
-                <button type="button" class="btn btn-warning">Donate</button>
-			</div>
-        </div>    
-			<div class="row year">
-				<div class="col-12 col-md-6">
-					<form> <span>Which year?</span>
-						<select id="year-selector">
-							<!--dropdown menu credit:http://jsfiddle.net/sCnEZ/1/-->
-							<option value="1">2021</option>
-							<option value="2">2022</option>
-							<option value="3">2023</option>
-							<option value="4">2024</option>
-						</select>
-					</form>
-				</div>
-			</div>
-            <div class="row mt-5 week">
-                <div class="col-12 col-md-6">
-					<form>
-						<!--Radiobutton form code sourced https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_radio-->
-						<p>Duration of stay?</p>
-						<input type="radio" id="weeks2" name="weeks" value="2">
-						<label for="weeks2">2 weeks</label>
-						<input type="radio" id="weeks3" name="weeks" value="3">
-						<label for="weeks3">3 weeks</label>
-						<input type="radio" id="weeks4" name="weeks" value="4">
-						<label for="weeks4">4 weeks</label>
-					</form>
-                    <button type="button" class="btn btn-warning">Volunteer</button>
-				</div>
-            </div>
 		</div>
 	</section>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
