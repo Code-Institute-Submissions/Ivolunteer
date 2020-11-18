@@ -69,6 +69,11 @@ h2 {
 
 }
 
+.carousel-caption {
+    background: rgb(31, 36, 41,0.43);
+    padding-top: 0;
+}
+
 /* -------Get Involved-page----*/
 #Get-Involved {
     width: 100%;
@@ -112,3 +117,5 @@ h2 {
 .structure {
     height:250px;
 }
+
+
