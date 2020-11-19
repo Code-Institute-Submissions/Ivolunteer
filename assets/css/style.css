@@ -133,7 +133,9 @@ input[required]{
 .form-label {
     margin-left: 20%;
 }
-.btn-submit {margin: 30px 430px;
-            
+.btn-submit {
+    margin-top: 30px;
+    margin-left: 45%;
+
 
 }
