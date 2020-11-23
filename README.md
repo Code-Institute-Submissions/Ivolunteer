@@ -27,6 +27,7 @@ The aim of this project is to **raise awareness of Africa's endangered elephants
 * _"As a **user**, I want to learn how i can participate as **volunteer** or option to **donate**, and/or choose to do **both**"._
 
 * _"As a **user**, I want to sign up to receive newsletters with updates about organization developments"._
+
 ### Site Owner Goals ###
 
 * _"As a **site owner**, I want to provide a structured and effective website accessible to view on any device"._
@@ -34,6 +35,22 @@ The aim of this project is to **raise awareness of Africa's endangered elephants
 * _"As a **site owner**, I want to increase awareness and participation"._
 
 * _"As a **site owner**, I want to be able to **connect** with my users to **handle any queries** and obtain valuable **feedback**"._
+
+#### Ivolunteer will achieve site owner requirements and expectations by: ####
+
+* Providing an About Us page section where users will find all essential information about the organization and the work performed. Content is kept short and simple to not overwhelm user.
+
+* Display of various images for visual support(appeal) & volunteer reviews to help potential users become more familiar with the organization.
+
+* Providing easy navigation that helps direct user to specific parts of the website.
+
+* Get involved page which provides the available ways to contribute with simple form fill options and progress bar to keep track on how the donation money is being used.
+
+* Contact page where users can leave their contact information for further correspondence with organization.
+
+* External links to associated social media accounts for users to connect with a larger community who shares similar interest.
+
+* Providing an organized content layout and responsive web-site with mobile-first approach.
 
 ## Wireframe ##
 I designed my website layout using [balsamiq wireframes](https://balsamiq.com/). Main criteria was to create a basic layout structure which also would display where content would be placed and what shape it would take on different screen sizes, such as desktop, tablet & mobile.
