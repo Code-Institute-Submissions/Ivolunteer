@@ -148,6 +148,11 @@ input[required]{
     margin: 40px 0 50px;
 }
 
+.subscribe {
+    margin-left: 20%;
+    margin-top: 30px;
+}
+/* -------footer----*/
 footer {
     background-color: orange;
     width: 100%; 
@@ -189,3 +194,4 @@ footer {
 .fa-twitter-square {
     color: rgb(24 16 1);
 }
+
