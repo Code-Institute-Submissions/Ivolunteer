@@ -7,7 +7,7 @@ _A non-profit organization devoted to rescue, protect, rehabilitate and release 
 ## User Experience (UX) ##
 
  ### Project Goals ###
-The aim of this project is to **raise awareness of Africa's endangered elephants** and **getting more people to get involved in helping to make a difference.** 
+The aim of this project is to **raise awareness of Africa's endangered elephants** and **getting more people to get involved in helping to make a difference.** _Note volunteer participants younger than 16yr must be accompanied by a parent or guardian._
 
 ### User Goals ###
 
