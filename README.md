@@ -59,6 +59,21 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 
 ## Design ##
 
+- **Primary colors:**
+
+  - Bright Orange #ffa500 not only because it's my favorite color but also as it is eye-catching, invokes a warm & happy feeling and to me depicts the vibrant continent of Africa. 
+
+  - Ivory #e8dfc1 background to provide a light neutral setting contrast.
+
+- **Non primary color:**
+  - Dark grayish/black #212529 for text content 
+ 
+- **Typography:**
+  - "Bree Serif" used as primary font throughout the whole website with Sans Serif as fallback font in case for any reason the font isn't imported into the site correctly. I choose "Bree Serif" as i felt it had a suitable playful look and feel.
+
+- **Images:** 
+  - Showcasing the beautiful elephants in their natural habitats and at organization site.
+
 ## Features ##
 
 **Existing Features**
@@ -127,17 +142,17 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 ## Credits ##
 
 ### Code ###
- - [Bootstrap](https://getbootstrap.com/): Used throughout the project to create a responsive site using the Bootstrap Grid System. Also referenced for following code;
+  [Bootstrap](https://getbootstrap.com/): Used throughout the project to create a responsive site using the Bootstrap Grid System. Also referenced for following code;
    - The Navigation Bar
    - The Image Carousel
    - The Progress Bar
 
-- [W3Schools](https://www.w3schools.com/): Referenced for the following code;
+  [W3Schools](https://www.w3schools.com/): Referenced for the following code;
   - Num.stepp form
-  - Radiobutton form
+  - Radiobutton forms
 
   [Jsfiddle](https://jsfiddle.net/): Referenced for the following code;
-  - Dropdown menue 
+  - Dropdown menues
 ### content ###
 
 The text content in the about page was sourced from other online elephant rescue sites such as [Wfft](https://www.wfft.org/about-wfft/), [Volunteerworld](https://www.volunteerworld.com/en/volunteer-abroad/elephant-conservation), [Elephantconservationcenter](https://www.elephantconservationcenter.com/releasing-elephants-into-the-wild-a-worlds-first/).
