@@ -125,13 +125,27 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 ## Deployment ##
 ---
 ## Credits ##
----
 
-## content ##
+### Code ###
+ - [Bootstrap](https://getbootstrap.com/): Used throughout the project to create a responsive site using the Bootstrap Grid System. Also referenced for following code;
+   - The Navigation Bar
+   - The Image Carousel
+   - The Progress Bar
+
+- [W3Schools](https://www.w3schools.com/): Referenced for the following code;
+  - Num.stepp form
+  - Radiobutton form
+
+  [Jsfiddle](https://jsfiddle.net/): Referenced for the following code;
+  - Dropdown menue 
+### content ###
+
+The text content in the about page was sourced from other online elephant rescue sites such as [Wfft](https://www.wfft.org/about-wfft/), [Volunteerworld](https://www.volunteerworld.com/en/volunteer-abroad/elephant-conservation), [Elephantconservationcenter](https://www.elephantconservationcenter.com/releasing-elephants-into-the-wild-a-worlds-first/).
+
+The volunteer reviews on the image carousel was sourced from [Podvolunteer.org](https://www.podvolunteer.org/elephant-care-thailand-reviews).
 
 
+### Media ###
+Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)
 
-## Media ##
-* Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)
-
-## Acknowledgements ##
+### Acknowledgements ###
