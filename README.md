@@ -7,7 +7,7 @@ _A non-profit organization devoted to rescue, protect, rehabilitate and release 
 ## User Experience (UX) ##
 
  ### Project Goals ###
-The aim of this project is to **raise awareness of Africa's endangered elephants** and **getting more people to get involved in helping to make a difference.** _Note volunteer participants younger than 16yr must be accompanied by a parent or guardian._
+The aim of this project is to **raise awareness of Africa's endangered elephants** and **getting more people to get involved in helping to make a difference.** _Note this is a fictional site for educational purposes only._
 
 ### User Goals ###
 
@@ -129,7 +129,9 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 
 ## content ##
 
+
+
 ## Media ##
-* [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)- Website image content sourced from 
+* Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)
 
 ## Acknowledgements ##
