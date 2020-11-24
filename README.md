@@ -36,7 +36,7 @@ The aim of this project is to **raise awareness of Africa's endangered elephants
 
 * _"As a **site owner**, I want to be able to **connect** with my users to **handle any queries** and obtain valuable **feedback**"._
 
-#### Ivolunteer will achieve site owner requirements and expectations by: ####
+#### Ivolunteer will achieve user/site owner requirements and expectations by: ####
 
 * Providing an About Us page section where users will find all essential information about the organization and the work performed. Content is kept short and simple to not overwhelm user.
 
@@ -98,12 +98,28 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 
 ### Languages Used ###
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used to create website content and structure.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used to style HTML5 content. 
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)-
 
 ### Frameworks & Tools ###
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/) -  Used to assist with the responsiveness and styling of the website.
+
+* [FontAwesome](https://fontawesome.com/) - Used for social media links.
+
+* [Google Fonts](https://fonts.google.com/) - Used for Typography.
+
+* [balsamiq wireframes](https://balsamiq.com/) - Used to create wireframes
+
+### Workspace, version control, and repository storage ###
+
+* [GitHub](https://github.com/) - A cloud based version control service that stores the repository and various changes made.
+
+* [Gitpod](https://www.gitpod.io/) - IDE (Integrated Development Environment) used for writing code to develop website.
+
+* [Git](https://git-scm.com/) - Version control system to track changes and store file versions.
+
+
 
 ---
 ## Deployment ##
@@ -114,5 +130,6 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 ## content ##
 
 ## Media ##
+* [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)- Website image content sourced from 
 
 ## Acknowledgements ##
