@@ -119,7 +119,7 @@ h2 {
     height:250px;
 }
 
-@media only screen and (max-width: 336px) {
+@media only screen and (min-width: 0px) {
     .structure { height: 95%;
 }
 
