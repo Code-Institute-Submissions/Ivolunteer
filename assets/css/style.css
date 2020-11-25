@@ -119,6 +119,10 @@ h2 {
     height:250px;
 }
 
+@media only screen and (max-width: 336px) {
+    .structure { height: 95%;
+}
+
 .frame {
     border: double;
     padding: 30px 0 50px;
@@ -194,4 +198,3 @@ footer {
 .fa-twitter-square {
     color: rgb(24 16 1);
 }
-
