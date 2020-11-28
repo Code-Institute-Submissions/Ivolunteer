@@ -108,6 +108,32 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 ---
 
 ## Testing ##
+
+---
+## Issues and Resolutions ##
+
+**Errors encountered and resolved during development process**
+
+- Display issue with the two depart forms on the Get Involved page merging horizontally on smaller devices.
+
+  - Issue resolved by changing the grid layout from multiple rows and cols to single row containing 2 cols with the separate form content.
+
+- Following the above change the buttons would not align vertically as desired.
+
+  - Issue resolved by placing the buttons outside the form content structure div.
+
+- Difficulties trying to display the input forms on the contact page center while labels on top left side of form. 
+
+  - Issue resolved by grouping the input form separate from the text label, then adding margin auto to input form styling whilst adding margin-left 20% to input form-label.
+
+- Issue with the submit button on contact page not properly aligning center.
+
+  - Issue affected by similar class name to previous buttons which added same styling to submit button. Resolved by changing class name.
+
+- When checking the responsiveness noticed how the two depart forms on the Get Involved page was now instead merging vertically on smaller devices.
+
+  - Issue resolved by adding media query (min-width: 0px) and structure div height 95%.
+
 ---
 ## Technologies Used ##
 
@@ -153,7 +179,7 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 
   [Jsfiddle](https://jsfiddle.net/): Referenced for the following code;
   - Dropdown menues
-### content ###
+### Content ###
 
 The text content in the about page was sourced from other online elephant rescue sites such as [Wfft](https://www.wfft.org/about-wfft/), [Volunteerworld](https://www.volunteerworld.com/en/volunteer-abroad/elephant-conservation), [Elephantconservationcenter](https://www.elephantconservationcenter.com/releasing-elephants-into-the-wild-a-worlds-first/).
 
