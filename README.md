@@ -141,7 +141,6 @@ You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/bl
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used to create website content and structure.
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used to style HTML5 content. 
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)-
 
 ### Frameworks & Tools ###
 * [Bootstrap](https://getbootstrap.com/) -  Used to assist with the responsiveness and styling of the website.
@@ -187,6 +186,6 @@ The volunteer reviews on the image carousel was sourced from [Podvolunteer.org](
 
 
 ### Media ###
-Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/) & [Pixabay](https://pixabay.com/sv/)
+Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/), [Pixabay](https://pixabay.com/sv/) & [Google](https://www.google.com/webhp?hl=sv&sa=X&ved=0ahUKEwjxxJrFhKbtAhVtxosKHfquBv0QPAgI)
 
 ### Acknowledgements ###
