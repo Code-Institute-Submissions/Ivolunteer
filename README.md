@@ -125,6 +125,15 @@ The completed site uses many of the concepts from the original Wireframe design 
 
 ## Testing ##
 
+ 
+[Google Chrome Development](https://developers.google.com/web/tools/chrome-devtools)- Used tool consistantly to identify issues arising and to test changes made throughout site development to ensure desired appearance on different screen sizes.
+
+[W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) - Used to validate CSS;
+
+[W3C Markup Validator](https://validator.w3.org/)- Used to validate HTML;
+
+
+
 ---
 ## Issues and Resolutions ##
 
