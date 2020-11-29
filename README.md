@@ -57,6 +57,20 @@ I designed my website layout using [balsamiq wireframes](https://balsamiq.com/).
 
 You can view my wireframes [here](https://github.com/yetnetbehailu/Ivolunteer/blob/master/assets/wireframe/wireframe.pdf) 
 
+<details>
+  <summary><strong>Wireframe updates:</strong></summary>
+The completed site uses many of the concepts from the original Wireframe design however as this is my first project made on own there has been a few modifications made along the way. 
+
+- Initial plan was to have a multi-page website design but then felt a single page scroll site would contribute to a simple linear navigation flow providing an intuitive user journey.
+
+- Initially the hero image on the home landing page was not supposed to cover full height but would display a background-color and welcome text beneath. However after revising the look on mobile devices it appeared that the image would be fully covered when the nav bar collapses, therefore the decision made to make the image take full size of the screen.
+
+- Due to visual preference and feedback received from my mentor, I also decided to change the design layout of the About page. Instead of having 4 text paragraphs surrounding 1 circle image, it now displays 1 top paragraph single row then 3 rows with text versus image and vice versa.
+
+- Adding volunteer reviews came to me as an after-thought which i managed to add onto the image carousel on the gallery page.
+
+- Border frame added to Get Involved forms creating a more organized structure and appeal.
+
 ## Design ##
 
 - **Primary colors:**
