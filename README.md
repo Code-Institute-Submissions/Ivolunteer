@@ -71,6 +71,7 @@ The completed site uses many of the concepts from the original Wireframe design 
 - Adding volunteer reviews came to me as an after-thought which i managed to add onto the image carousel on the gallery page.
 
 - Border frame added to Get Involved forms creating a more organized structure and appeal.
+</details>
 
 ## Design ##
 
@@ -165,6 +166,11 @@ The completed site uses many of the concepts from the original Wireframe design 
 * [Google Fonts](https://fonts.google.com/) - Used for Typography.
 
 * [balsamiq wireframes](https://balsamiq.com/) - Used to create wireframes
+
+* [Am I Responsive:](http://ami.responsivedesign.is/#)- Used to test webpage layout responsivedesign
+
+* [Adobe Photoshop:](https://photoshop.adobe.com/)
+  - Photoshop was used to resize images and edit photos for the website.
 
 ### Workspace, version control, and repository storage ###
 
