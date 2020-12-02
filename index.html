@@ -39,7 +39,7 @@
 	<!-- homelanding page-->
 	<section id="Home">
 		<div class="container-fluid p-0">
-			<img class="hero-img" src="assets/images/hero.img.jpg" alt="Elephants" />
+			<img class="hero-img" src="assets/images/hero.img.jpg" alt="Elephants"/>
 			<!--Sourced: https://www.pexels.com/sv-se/foto/landskap-damm-djur-gras-4577536/-->
 		</div>
 	</section>
@@ -234,23 +234,24 @@
 							<input type="radio" id="amount3" name="amount" value="100">
 							<label for="amount3">100€</label>
 							<input type="radio" id="amount4" name="amount" value="other">
-							<label for="amount4">other</label> <span class="text food">Food</span>
+							<label for="amount4">other</label> 
 						</div>
 						<div>
 							<!--Sourced:Bootstrap-progressbar https://getbootstrap.com/docs/4.5/components/progress/-->
+                            <span class="text">Food</span>
 							<div class="progress">
 								<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div><span class="sr-only">60% complete</span>
-							</div> <span class="text">Medical</span>
+							</div><span class="text">Medical</span>
 							<div class="progress">
 								<div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div><span class="sr-only">50% complete</span>
-							</div> <span class="text">Shelter</span>
+							</div><span class="text">Shelter</span>
 							<div class="progress">
 								<div class="progress-bar bg-warning warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%">15%</div><span class="sr-only">15% complete</span>
 							</div>
 						</div>
 					</div>
-					<button type="button" class="btn btn-warning button">Donate</button>
-				</div>
+					<button type="submit" class="btn btn-warning button">Donate</button>
+                </div>
 			</div>
 		</div>
 	</section>
@@ -260,14 +261,12 @@
 				<div class="col-12">
 					<h2>Contact</h2>
 					<div class="contact-frame">
-						<form>
 							<label for="fname" class="form-label">First Name</label>
 							<input type="text" id="fname" name="fname" required>
 							<label for="lname" class="form-label">Last Name</label>
 							<input type="text" id="lname" name="lname" required>
 							<label for="email" class="form-label">Email:</label>
 							<input type="email" id="email" name="email" required>
-						</form>
 						<div class="subscribe">
 							<p>Sign up to receive newsletters!</p>
 							<input type="radio" id="yes" name="yes_no" value="yes">

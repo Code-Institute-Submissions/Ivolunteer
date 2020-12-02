@@ -84,7 +84,7 @@ h2 {
 }
 
 .carousel-caption {
-    background: rgb(31, 36, 41,0.43);
+    background: rgb(31, 36, 41, 0.43);
     padding-top: 0;
 }
 
@@ -112,17 +112,13 @@ h2 {
     margin-top: 10px;
     font-size: 1rem;
     margin-right: 65px;
-    height: 2rem;
+    height: 40px;
 }
 
 .text { 
     float: right;
     margin-left: 5px;
     margin-top: 15px ;
-}
-
-.food {
-    margin-top: 50px;
 }
 
 .button { 
@@ -135,6 +131,7 @@ h2 {
 
 @media only screen and (min-width: 0px) {
     .structure { height: 95%;
+}
 }
 
 .frame {
@@ -172,7 +169,7 @@ input[required]{
 }
 /* -------footer----*/
 footer {
-    background-color: orange;
+    background-color: #ffa500;
     width: 100%; 
     height: 3rem;
     display: inline-flex;
@@ -182,7 +179,7 @@ footer {
 .Copyright {
     margin-left: 10%;
     font-size: 1.5rem;
-    color: rgb(24 16 1);
+    color: rgb(24, 16, 1);
     padding-right: 20px;
 }
 
@@ -198,17 +195,17 @@ footer {
 }
 
 .fa-instagram {
-    color: rgb(24 16 1);
+    color: rgb(24, 16, 1);
 }
 
 .fa-facebook-square {
-    color: rgb(24 16 1);
+    color: rgb(24, 16, 1);
 }
 
 .fa-youtube {
-    color: rgb(24 16 1);
+    color: rgb(24, 16, 1);
 }
 
 .fa-twitter-square {
-    color: rgb(24 16 1);
-}
+    color: rgb(24, 16, 1);
+    }
