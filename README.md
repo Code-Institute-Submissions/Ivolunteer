@@ -88,7 +88,7 @@ The completed site uses many of the concepts from the original Wireframe design 
   - "Bree Serif" used as primary font throughout the whole website with Sans Serif as fallback font in case for any reason the font isn't imported into the site correctly. I choose "Bree Serif" as i felt it had a suitable playful look and feel.
 
 - **Images:** 
-  - Showcasing the beautiful elephants in their natural habitats and at organization site.
+  - Eye-catching image showcasing the beautiful elephants in their natural habitats and at organization site.
 
 ## Features ##
 
@@ -128,9 +128,24 @@ The completed site uses many of the concepts from the original Wireframe design 
  
 [Google Chrome Development](https://developers.google.com/web/tools/chrome-devtools)- Used tool consistantly to identify issues arising and to test changes made throughout site development to ensure desired appearance on different screen sizes.
 
-[W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) - Used to validate CSS;
+[W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) - Used to validate CSS; ❌ Parse error found due to missing curly brace, once corrected no errors found✅
 
-[W3C Markup Validator](https://validator.w3.org/)- Used to validate HTML;
+[W3C Markup Validator](https://validator.w3.org/)- Used to validate HTML; No errors found✅  (Only a warning in regards to not having used a heading on first section page, however this warning was ignored as it was a design decision.)
+
+
+The website has been tested on a variety of devices such as Desktop, Laptop, tablet and mobile. Apart from testing on my own electronic devices got a little help from family and friends to help check responsiveness. "Am I Responsive" and Chrome dev tools was also great help for this. 
+
+Navbar menu links manually tested to ensure re-direction to right page when clicked. 
+
+Burger icon manually tested when clicked collapses on smaller devices. 
+
+Manually tested carousel arrows to make sure images swipe and display according to previous/next command when clicked.
+
+Drop down menus & radio buttons manually tested, making sure only one of the options can get selected when clicked.
+
+Num stepp. tested clicking on up/down arrows, responds according to set number limits.
+
+Social media-link icons manually tested re-directs to social forum on a new tab when clicked.
 
 
 
@@ -139,7 +154,7 @@ The completed site uses many of the concepts from the original Wireframe design 
 
 **Errors encountered and resolved during development process**
 
-- Display issue with the two depart forms on the Get Involved page merging horizontally on smaller devices.
+- Display issue with the two seperate forms on the Get Involved page merging horizontally on smaller devices.
 
   - Issue resolved by changing the grid layout from multiple rows and cols to single row containing 2 cols with the separate form content.
 
@@ -176,10 +191,11 @@ The completed site uses many of the concepts from the original Wireframe design 
 
 * [balsamiq wireframes](https://balsamiq.com/) - Used to create wireframes
 
-* [Am I Responsive:](http://ami.responsivedesign.is/#)- Used to test webpage layout responsivedesign
+* [Am I Responsive](http://ami.responsivedesign.is/#)- Used to test webpage layout responsivedesign
 
-* [Adobe Photoshop:](https://photoshop.adobe.com/)
-  - Photoshop was used to resize images and edit photos for the website.
+* [jQuery](https://jquery.com/)- came with Bootstrap to make the navbar responsive.
+
+* [Adobe Photoshop](https://photoshop.adobe.com/)- Photoshop was used to resize images and edit photos for the website.
 
 ### Workspace, version control, and repository storage ###
 
