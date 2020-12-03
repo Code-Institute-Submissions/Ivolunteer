@@ -133,31 +133,31 @@ The completed site uses many of the concepts from the original Wireframe design 
 [W3C Markup Validator](https://validator.w3.org/)- Used to validate HTML; No errors found✅  (Only a warning in regards to not having used a heading on first section page, however this warning was ignored as it was a design decision.)
 
 
-The website has been tested on a variety of devices such as Desktop, Laptop, tablet and mobile. Apart from testing on my own electronic devices got a little help from family and friends to help check responsiveness. "Am I Responsive" and Chrome dev tools was also great help for this. 
+- The website has been tested on a variety of devices such as Desktop, Laptop, tablet and mobile. Apart from testing on my own electronic devices got a little help from family and friends to help check responsiveness. "Am I Responsive" and Chrome dev tools was also great help for this. 
 
-Tested across multiple browsers; Safari, Chrome, & Firefox.
+- Tested across multiple browsers; Safari, Chrome, & Firefox.
 
-Navbar menu links manually tested to ensure re-direction to right page when clicked. 
+- Navbar menu links manually tested to ensure re-direction to right page when clicked. 
 
-Burger icon manually tested when clicked collapses on smaller devices. 
+- Burger icon manually tested when clicked collapses on smaller devices. 
 
-Ivolunteer navbar logo re-directs to first page when clicked.
+- Ivolunteer navbar logo re-directs to first page when clicked.
 
-Adjust width of browser window to confirm images are displayed attractively.
+- Adjust width of browser window to confirm images are displayed attractively.
 
-Manually tested carousel arrows to make sure images swipe and display according to previous/next command when clicked.
+- Manually tested carousel arrows to make sure images swipe and display according to previous/next command when clicked.
 
-Ensure all text laid over on images can be easily read.
+- Ensure all text laid over on images can be easily read.
 
-Confirm that the overlay text on images do not display on smaller devices by adjusting the width of the browser window.
+- Confirm that the overlay text on images do not display on smaller devices by adjusting the width of the browser window.
 
-Drop down menus & radio buttons manually tested, making sure only one of the options can get selected when clicked.
+- Drop down menus & radio buttons manually tested, making sure only one of the options can get selected when clicked.
 
-Num stepp. tested clicking on up/down arrows, responds according to set number limits.
+- Num stepp. tested clicking on up/down arrows, responds according to set number limits.
 
-Social media-link icons manually tested re-directs to social forum on a new tab when clicked.
+- Social media-link icons manually tested re-directs to social forum on a new tab when clicked.
 
-Try to submit contact form without having filled in the input fields to ensure that it can't be submitted empty (required fields must be met).
+- Try to submit contact form without having filled in the input fields to ensure that it can't be submitted empty (required fields must be met).
 
 ---
 ## Issues and Resolutions ##
