@@ -224,6 +224,30 @@ The completed site uses many of the concepts from the original Wireframe design 
 
 ---
 ## Deployment ##
+
+To share the live website with others, I deployed my project on GitHub Pages using following steps:
+
+1. Logged-in to my GitHub account.
+
+2. Selects my repositories.
+
+3. Click on my Ivolunteer repository 
+
+4. On the top right navigation clicked on settings. 
+
+5. Under the settings section of the GitHub repository, scroll down to the GitHub Pages section.
+
+6. Selects Master Branch from the Source dropdown menu.
+
+7. Once selected, this publishes the project to GitHub Pages and displays the site URL.
+
+8. The code can be run locally through clone or download.
+
+9. You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
+
+10. The Clone option provides a URL, which you can use on your desktop IDE.
+
+11. The Download ZIP option provides a link to download a ZIP file that can be unzipped on your local machine.
 ---
 ## Credits ##
 
