@@ -2,7 +2,42 @@
 _A non-profit organization devoted to rescue, protect, rehabilitate and release African elephants back into their natural habitats._
 ![IVolunteer](assets/images/Site%20image.png)
 
-## Contents ##
+## Table of Contents ##
+* [User Experience](#user-experience)
+    * [Project Goals ](#project-goals)
+    * [User Goals](#user-goals)
+    * [User Stories](#user-stories)
+    * [Site Owner Goals](#site-owner-goals)
+    * [Ivolunteer will achieve user/site owner requirements and expectations by:](#requirements/expectations-meet-by-Ivolunteer)
+
+* [Wireframe](#wireframe)
+   * [Wireframe updates](#wireframe-updates) 
+
+* [Design](#design)      
+
+* [Features](#features)
+
+    * [Existing Features](#existing-features)
+    * [Features to implement in the future](#Features-to-implement-in-the-future)
+
+* [Testing](#testing)
+
+* [Issues and Resolutions](issues-and-resolutions)
+
+* [Technologies Used](#technologies-used)
+    * [Languages Used](#languages)
+    * [Frameworks & Tools](#frameworks-&-tools)
+    * [Workspace, Version Control, and Repository Storage](#workspace-version-control-and-repository-storage)
+
+* [Deployment](#deployment)
+
+* [Credits](#credits)
+    * [Code](#code)
+    * [Content](#content)
+    * [Media](#media)
+
+* [Acknowledgments](#acknowledgments)
+
 ---
 
 ## User Experience (UX) ##
@@ -119,7 +154,6 @@ The completed site uses many of the concepts from the original Wireframe design 
 - Adding functionality to submission forms where a server actually receives, registers and responds to submitted information.
 
 - videos
-
 
 ---
 
