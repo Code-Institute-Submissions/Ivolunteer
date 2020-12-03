@@ -207,6 +207,11 @@ Try to submit contact form without having filled in the input fields to ensure t
 
 * [Adobe Photoshop](https://photoshop.adobe.com/)- Photoshop was used to resize images and edit photos for the website.
 
+* [Minify code](http://minifycode.com/html-beautifier/)- Used to beautify Html code 
+
+* [online-spellcheck](https://www.online-spellcheck.com/)- Used to check spelling
+
+
 ### Workspace, version control, and repository storage ###
 
 * [GitHub](https://github.com/) - A cloud based version control service that stores the repository and various changes made.
@@ -245,3 +250,13 @@ The volunteer reviews on the image carousel was sourced from [Podvolunteer.org](
 Website image content sourced from - [Pexels](https://www.pexels.com/sv-se/), [Pixabay](https://pixabay.com/sv/) & [Google](https://www.google.com/webhp?hl=sv&sa=X&ved=0ahUKEwjxxJrFhKbtAhVtxosKHfquBv0QPAgI)
 
 ### Acknowledgements ###
+
+A special thanks to my mentor Seun Owonikoko for her time, patience and much helpful advice.
+
+Big Thanks to classmates @JohnTrass & @Jimlynx for their guidance & honest feedback on my project.
+
+The support from the Code Institute community on Slack.
+
+Tutor support for their invaluable feedback and problem solving.
+
+My family and friends for their support & encouragement.
