@@ -1,6 +1,6 @@
 # IVolunteer #
 _A non-profit organization devoted to rescue, protect, rehabilitate and release African elephants back into their natural habitats._
-![IVolunteer](assets/images/Site%20image.png)
+![IVolunteer](assets/images/site.image.png)
 
 [>>To view live site click here<<]( https://yetnetbehailu.github.io/Ivolunteer/)
 
