@@ -247,6 +247,7 @@ The completed site uses many of the concepts from the original Wireframe design 
 
 * [online-spellcheck](https://www.online-spellcheck.com/)- Used to check spelling
 
+* [Tinypng](https://tinypng.com/)- Used to compress all the images 
 
 ### Workspace, version control, and repository storage ###
 
